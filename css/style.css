@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#circle {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background: blue;
+    border-radius: 50%;
+}
